@@ -77,7 +77,7 @@ Crime_Data_Analysis/
 **nilopher.s**  
 🎓 Bsc CS Artificial intelligence and machine learning
 📧 platinumnilopher@gmail.com  
-🔗 [LinkedIn] https://www.linkedin.com/in/nilopher-s-719664395?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app| [GitHub](https://github.com/nayeemsam)
+🔗 [LinkedIn] https://www.linkedin.com/in/nilopher-s-719664395?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app|
 
 ---
 
